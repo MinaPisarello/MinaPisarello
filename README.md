@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I’m Mina Pisarello
 
-<!--
-**MinaPisarello/MinaPisarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a QA tester.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💪🏼 Skills
+- Jira
+- Postman
+- Agile methodology
+- Scrum
+- Database
+- Git
+
+## 👀 You can find me at:
+- Linkedin:https://www.linkedin.com/in/guillermina-pisarello-52584521/
