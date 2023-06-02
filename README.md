@@ -16,8 +16,8 @@ I am committed to enhance the way we live technology through proposals that gene
 
 
 ## Certificatios
--Introduction to Ciber Crime
--Cybersecurity at Homeoffice
+- Introduction to Ciber Crime
+- Cybersecurity at Homeoffice
 - Personal Productivity
 
 
