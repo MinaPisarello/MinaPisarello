@@ -25,6 +25,10 @@ I am committed to enhance the way we live technology through proposals that gene
 - Cybersecurity at Homeoffice
 - Personal Productivity
 
+## Languages
+- Spanish: Native speaker
+- English: B2+
+
 
 ## Skills
 - Jira
