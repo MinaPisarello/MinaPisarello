@@ -1,4 +1,4 @@
-![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/0fcfa6e3-3df9-4627-9bc4-0168ee8f729d)
+![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/db59161e-7aad-41f8-b110-a0190f5b213c)
 
 
 # Hi, I’m Mina Pisarello
