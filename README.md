@@ -1,9 +1,9 @@
-# Hi, I’m Mina Pisarello 
- QA tester 
+# Hi, I’m Mina Pisarello  
 
 ![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/db59161e-7aad-41f8-b110-a0190f5b213c)
 
 
+## Goal
 I am committed to enhance the way we live technology through proposals that generate value. My goal is to take my projects to the maximum, to provide a valuable, usable and responsible product. I am in constant training because I am committed to grow personally and professionally.
 
 
