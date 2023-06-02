@@ -1,7 +1,8 @@
 ![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/db59161e-7aad-41f8-b110-a0190f5b213c)
 
 
-# Hi, I’m Mina Pisarello
+# Hi, I’m Mina Pisarello ![pngtree-github-icon-design-vector-png-image_2006069](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/baa2f901-af25-4092-b4d4-95a4896d325c)
+
  QA tester 
 
  
