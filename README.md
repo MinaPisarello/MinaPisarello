@@ -28,7 +28,7 @@ I am committed to enhance the way we live technology through proposals that gene
 - Scrum
 - Database
 - Git
-- 
+
 ## Soft Skills
 - Communication
 - Teamwork
