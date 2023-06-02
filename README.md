@@ -1,4 +1,5 @@
-![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/70659536-b2d1-4faf-9d25-2649d2c0cb19)
+![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/82d52fed-2899-4cd7-8cbf-2c4ad5ef952b)
+
 # Hi, I’m Mina Pisarello             
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
