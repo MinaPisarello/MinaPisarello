@@ -1,6 +1,7 @@
 # Hi, I’m Mina Pisarello  ![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
 
-![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/db59161e-7aad-41f8-b110-a0190f5b213c)
+![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/db59161e-7aad-41f8-b110-a0190f5b213c)  ![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
+
 
 
 
