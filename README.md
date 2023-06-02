@@ -11,5 +11,5 @@ I am a QA tester.
 - Database
 - Git
 
-## 👀 You can find me at:
+## 👀 Contact me:
 - Linkedin:https://www.linkedin.com/in/guillermina-pisarello-52584521/
