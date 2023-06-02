@@ -1,4 +1,4 @@
-![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/ec62d15c-4cf5-4763-bcc5-c1a76ed743c2)
+![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/70659536-b2d1-4faf-9d25-2649d2c0cb19)
 # Hi, I’m Mina Pisarello             
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=MinaPisarello&count_private=true&show_icons=true&theme=radical)
