@@ -2,7 +2,8 @@
 
 
 # Hi, I’m Mina Pisarello
- QA tester.
+ QA tester ![442-4423751_github-octocat-png-github-inspectocat-896-github-hack](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/bea7adbc-424b-4612-b7aa-675511259172)
+
  
 I am committed to enhance the way we live technology through proposals that generate value. My goal is to take my projects to the maximum, to provide a valuable, usable and responsible product. I am in constant training because I am committed to grow personally and professionally.
 
