@@ -1,3 +1,6 @@
+![blog-QA-Testing](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/ba3ea425-5754-48d9-8c8b-b71a29ab3a66)
+
+
 # Hi, I’m Mina Pisarello
  QA tester.
  
