@@ -31,12 +31,14 @@ I am committed to improve the way we live technology through proposals that gene
 
 
 ## Skills
+- Agile methodology
 - Jira
 - Postman
-- Agile methodology
 - Scrum
 - Database
 - Git
+- Selenium
+- Jmeter
 
 ## Soft Skills
 - Communication
