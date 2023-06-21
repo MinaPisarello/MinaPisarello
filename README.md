@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-21 at 20 42 15](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/19166e9a-dae2-44d8-bdc9-eef9fc361a12)
+![WhatsApp Image 2023-06-21 at 20 49 19 (1)](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/b549c8d9-b029-4409-a656-194e9e95777f)
 
 
 # Hi, I’m Mina Pisarello             
