@@ -1,4 +1,5 @@
-![1000_F_331682758_k2dzIdzGk2sOyy1bP0Hr7dJE9pQfBt9l](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/82d52fed-2899-4cd7-8cbf-2c4ad5ef952b)
+![WhatsApp Image 2023-06-21 at 20 42 15](https://github.com/MinaPisarello/MinaPisarello/assets/106481489/19166e9a-dae2-44d8-bdc9-eef9fc361a12)
+
 
 # Hi, I’m Mina Pisarello             
 
