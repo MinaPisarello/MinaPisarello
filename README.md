@@ -54,4 +54,4 @@ I am committed to improve the way we live technology through proposals that gene
 
 
 ## Contact me
-- Linkedin:https://www.linkedin.com/in/guillermina-pisarello-52584521/
+- Linkedin:https://www.linkedin.com/in/guillerminapisarello
